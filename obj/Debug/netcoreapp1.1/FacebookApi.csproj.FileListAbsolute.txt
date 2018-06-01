@@ -1,0 +1,9 @@
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\bin\Debug\netcoreapp1.1\FacebookApi.deps.json
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\bin\Debug\netcoreapp1.1\FacebookApi.runtimeconfig.json
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\bin\Debug\netcoreapp1.1\FacebookApi.runtimeconfig.dev.json
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\bin\Debug\netcoreapp1.1\FacebookApi.dll
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\bin\Debug\netcoreapp1.1\FacebookApi.pdb
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\obj\Debug\netcoreapp1.1\FacebookApi.csprojResolveAssemblyReference.cache
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\obj\Debug\netcoreapp1.1\FacebookApi.AssemblyInfo.cs
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\obj\Debug\netcoreapp1.1\FacebookApi.dll
+c:\users\rites\documents\visual studio 2017\Projects\FacebookApi\FacebookApi\obj\Debug\netcoreapp1.1\FacebookApi.pdb
